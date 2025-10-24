@@ -32,11 +32,17 @@
 
 robust-ml-project/
 ├── src/ # Основной код: обучение, EDA, SHAP
+
 ├── app/ # Flask API
+
 ├── models/ # Сохранённые модели (.pkl)
+
 ├── reports/ # Графики: EDA, SHAP
+
 ├── requirements.txt # Зависимости
+
 ├── README.md # Этот файл
+
 └── .gitignore
 
 ---
